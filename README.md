@@ -50,6 +50,11 @@ Automated incident management agent that detects production incidents, classifie
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 incident-response-agent/
 │
